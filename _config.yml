@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Amplify Documentation
+description: Documentation for the Amplify project
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://sfu-dhil.github.io/amplify-docs/
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+favicon_ico: "https://i0.wp.com/amplifypodcastnetwork.ca/wp-content/uploads/2022/03/cropped-amplify-final-social-options-2-sm.png?fit=32%2C32&ssl=1"
+color_scheme: amplify
