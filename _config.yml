@@ -1,9 +1,7 @@
 title: Amplify Documentation
 description: Documentation for the Amplify project
 theme: just-the-docs
-
-url: https://sfu-dhil.github.io/amplify-docs/
-
+url: https://sfu-dhil.github.io/amplify-docs
 favicon_ico: "https://i0.wp.com/amplifypodcastnetwork.ca/wp-content/uploads/2022/03/cropped-amplify-final-social-options-2-sm.png?fit=32%2C32&ssl=1"
 color_scheme: amplify
 callouts:
